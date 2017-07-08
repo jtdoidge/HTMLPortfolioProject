@@ -1,0 +1,36 @@
+body {
+  padding: 0px;
+  border: 0px;
+  margin: 2px;
+  font-family: 'Bellefair', serif;
+}
+
+.header {
+  background-color: firebrick;
+  background-image: url("images/bg.jpg");
+  font-size: 24px;
+  color: whitesmoke;
+  text-align: center;
+  padding: 2px;
+  border: 0px;
+  margin: 0px;
+  opacity: .90;
+
+}
+
+.tagline {
+  background: lightgrey;
+  font-size: 18px;
+  padding: 6px;
+  margin: auto;
+}
+
+.skills {
+  background-color: indianred;
+  padding: 6px;
+}
+
+.contact {
+  padding: 6px;
+  text-align: center;
+}
